@@ -1,8 +1,8 @@
-# Project Title
+# Weather-Dashboard
 
 ## Overview
 
-[Project Name] is an advanced research project focused on [brief description of the project]. It leverages cutting-edge technologies to address [key challenges or objectives]. This README provides a high-level overview of the project, highlighting its basic functionalities.
+Weather-Dashboard is an advanced research & commercial project focused on [brief description of the project]. It leverages cutting-edge technologies to address [key challenges or objectives]. This README provides a high-level overview of the project, highlighting its basic functionalities.
 
 ## Key Features
 
